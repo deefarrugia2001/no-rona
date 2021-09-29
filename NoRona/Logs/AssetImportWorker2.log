@@ -180,3 +180,35 @@ Received Import Request.
 Start importing Assets/Background using Guid(6cf6bb3dcfe87384bb11c3adb806e385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a9dc10db00cb6e86439ca5f14a831de') in 0.006124 seconds 
   Import took 0.012323 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 159.834617 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa8f306bf1284b8bbeeafadfa31c7b92') in 0.029081 seconds 
+  Import took 0.041158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.531478 seconds.
+  path: Assets/Scenes/Game.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Game.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfceeaf76ee41222ed2038d3cf4430b8') in 0.019198 seconds 
+  Import took 0.073357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2399.864475 seconds.
+  path: Assets/Sprites/Germ.png
+  artifactKey: Guid(7d9e12f7a2a620e418f77a7ce42db503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Germ.png using Guid(7d9e12f7a2a620e418f77a7ce42db503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073eb7b682f2d6b2b2057a31b210a074') in 0.105550 seconds 
+  Import took 0.133125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Sprites/Germs.png
+  artifactKey: Guid(d15fece612eee0a45b05fcd8fff0fd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Germs.png using Guid(d15fece612eee0a45b05fcd8fff0fd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9706ab2022ccd7be72a66333f70b7b0') in 0.066668 seconds 
+  Import took 0.072601 seconds .
+
