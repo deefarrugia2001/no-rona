@@ -212,3 +212,75 @@ Received Import Request.
 Start importing Assets/Sprites/Germs.png using Guid(d15fece612eee0a45b05fcd8fff0fd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9706ab2022ccd7be72a66333f70b7b0') in 0.066668 seconds 
   Import took 0.072601 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1335.495749 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(9e8867deadc759c459d812b6f2efbc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(9e8867deadc759c459d812b6f2efbc41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd2d01563ce9db635a543773a903cdb') in 0.025340 seconds 
+  Import took 0.044301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 205.574503 seconds.
+  path: Assets/Prefabs/Syringe.prefab
+  artifactKey: Guid(9e69b7afd312b2b4c9a8a982dc60eed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Syringe.prefab using Guid(9e69b7afd312b2b4c9a8a982dc60eed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0d37e5d113ac01ebff954045178da2') in 0.593764 seconds 
+  Import took 0.625117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.618622 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(6e23a71835986fe47a82b7402049231e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(6e23a71835986fe47a82b7402049231e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31aab8ed83380a824aff4532eaae7cc3') in 0.052438 seconds 
+  Import took 0.114932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 153.415186 seconds.
+  path: Assets/Background/Background.prefab
+  artifactKey: Guid(08591b574793d4d44afdc1f3486cab16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Background/Background.prefab using Guid(08591b574793d4d44afdc1f3486cab16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922a9421ed9553ad8e366d6fffbd5bc4') in 0.408959 seconds 
+  Import took 0.420696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.941191 seconds.
+  path: Assets/Background/Main Camera.prefab
+  artifactKey: Guid(709ab93954c3a8c46b39bd85ed528806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Background/Main Camera.prefab using Guid(709ab93954c3a8c46b39bd85ed528806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619354ba0e12ab616c908035189d5376') in 0.107761 seconds 
+  Import took 0.121494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.696613 seconds.
+  path: Assets/Prefabs/Coronavirus.prefab
+  artifactKey: Guid(d5f36e450fd74fa44ad7703e720c5e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coronavirus.prefab using Guid(d5f36e450fd74fa44ad7703e720c5e48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2ed765881b84b4b88f38b73a719856') in 0.292793 seconds 
+  Import took 0.302221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 724.069034 seconds.
+  path: Assets/Prefabs/Germ.prefab
+  artifactKey: Guid(db48fb7746dd74244b00e3ecffa4036d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Germ.prefab using Guid(db48fb7746dd74244b00e3ecffa4036d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117984d3ee4cc86e732fbaf0c07c0419') in 0.166987 seconds 
+  Import took 0.194073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6048.184890 seconds.
+  path: Assets/Prefabs/Germs.prefab
+  artifactKey: Guid(b4b77fdec561bc04497ee357670ac9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Germs.prefab using Guid(b4b77fdec561bc04497ee357670ac9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db6caa4094915f30658e4be87e94156') in 5.969569 seconds 
+  Import took 6.528303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/Prefabs/Germs.prefab
+  artifactKey: Guid(b4b77fdec561bc04497ee357670ac9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Germs.prefab using Guid(b4b77fdec561bc04497ee357670ac9f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db6caa4094915f30658e4be87e94156') in 0.268012 seconds 
+  Import took 0.281129 seconds .
+
