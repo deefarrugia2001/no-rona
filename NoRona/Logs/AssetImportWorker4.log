@@ -140,3 +140,11 @@ Received Import Request.
 Start importing Assets/Scripts/Syringe.cs using Guid(088e2aecdfd637047b905a9dd1dceaf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4265a30c5e0fea5725faf162b88847cd') in 0.307841 seconds 
   Import took 0.358799 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 5152.573416 seconds.
+  path: Assets/Sprites/Liquid.png
+  artifactKey: Guid(774de662544faed4f86b64ef3e07d26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Liquid.png using Guid(774de662544faed4f86b64ef3e07d26d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd576795217cd106b2eca616ad9ed68') in 7.750298 seconds 
+  Import took 10.474638 seconds .
+
