@@ -3,7 +3,7 @@
  
 The aim is to destroy as many COVID-19 germs as possible! After nearly two grueling years of this novel coronavirus pandemic that has brought the world down to its knees, we all deserve to let off some steam!
  
-Developed using Unity 2020.3.19f1 and C#, I believe this just-for-fun project (hence I will not be big on high-end graphics, just testing out the waters with an idea I have fostered upon being inspired by a YouTube ad) will help me grasp a better understanding of Unity, as well object-oriented programming in game development. Feel free to follow me throughout this journey of development <i>(and destruction)</i> as I go along. The more, the merrier!
+Developed using Unity 2020.3.19f1 and C#, I believe this just-for-fun project (hence I will not be big on high-end graphics, just testing out the waters with an idea I have fostered upon being inspired by a YouTube ad - credits to <a href="https://europa.eu/next-generation-eu/index_en" target="_blank">Next Generation EU</a>) will help me grasp a better understanding of Unity, as well object-oriented programming in game development. Feel free to follow me throughout this journey of development <i>(and destruction)</i> as I go along. The more, the merrier!
 
 <h2>General Information</h2>
 <h3>Aspect Ratio</h3>
