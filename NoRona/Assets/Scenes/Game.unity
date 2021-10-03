@@ -123,50 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &894922933 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 947510549119412881, guid: 9e69b7afd312b2b4c9a8a982dc60eed8, type: 3}
-  m_PrefabInstance: {fileID: 947510549844187684}
-  m_PrefabAsset: {fileID: 0}
---- !u!60 &894922934
-PolygonCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 894922933}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.74, y: 3.07}
-    newSize: {x: 1.74, y: 3.07}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.32999998, y: -0.565}
-      - {x: 0.17999999, y: -0.565}
-      - {x: 0.19999999, y: 0.645}
-      - {x: 0.03, y: 1.105}
-      - {x: -0.04, y: 1.105}
-      - {x: -0.19, y: 0.635}
-      - {x: -0.34, y: -0.585}
-      - {x: -0.34, y: -0.625}
-      - {x: -0.29999998, y: -0.655}
-      - {x: -0.17999999, y: -1.245}
-      - {x: 0.24, y: -1.245}
-      - {x: 0.17, y: -0.675}
-      - {x: 0.34, y: -0.635}
-      - {x: 0.34, y: -0.575}
 --- !u!1001 &947510549844187684
 PrefabInstance:
   m_ObjectHideFlags: 0

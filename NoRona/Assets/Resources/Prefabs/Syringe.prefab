@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 947510549119412883}
   - component: {fileID: 947510549119412882}
   - component: {fileID: 894922934}
+  - component: {fileID: 5804536306468930515}
   m_Layer: 0
   m_Name: Syringe
   m_TagString: Untagged
@@ -97,3 +98,42 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   liquid: {fileID: 0}
   movementSpeed: 10
+--- !u!60 &5804536306468930515
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 947510549119412881}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.74, y: 3.07}
+    newSize: {x: 1.74, y: 3.07}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.32999998, y: -0.565}
+      - {x: 0.17999999, y: -0.565}
+      - {x: 0.19999999, y: 0.645}
+      - {x: 0.03, y: 1.105}
+      - {x: -0.04, y: 1.105}
+      - {x: -0.19, y: 0.635}
+      - {x: -0.34, y: -0.585}
+      - {x: -0.34, y: -0.625}
+      - {x: -0.29999998, y: -0.655}
+      - {x: -0.17999999, y: -1.245}
+      - {x: 0.24, y: -1.245}
+      - {x: 0.17, y: -0.675}
+      - {x: 0.34, y: -0.635}
+      - {x: 0.34, y: -0.575}
