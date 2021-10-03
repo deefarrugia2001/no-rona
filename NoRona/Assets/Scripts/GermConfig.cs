@@ -11,4 +11,19 @@ public class GermConfig : ScriptableObject
     [SerializeField] float movementSpeed;
 
     public GameObject Germ => germPrefab;
+
+    public List<Transform> Waypoints 
+    {
+        get 
+        {
+            List<Transform> waypoints = new List<Transform>();
+            foreach(Transform child in pathPrefab.transform)
+                waypoints.Add(child);
+            return waypoints;
+        }
+    }
+
+    public sbyte GermCount => germCount;
+    public float SecondsBetweenSpawns => secondsBetweenSpawns;
+    public float MovementSpeed => movementSpeed;
 }
