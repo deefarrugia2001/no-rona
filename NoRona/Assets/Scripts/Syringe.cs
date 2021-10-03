@@ -5,6 +5,8 @@ using UnityEngine;
 public class Syringe : MonoBehaviour
 {
     [SerializeField] GameObject liquid; //Liquid represents the projectile to emerge from the syringe in order to destroy the germs.
+    Liquid liquidObject;
+    float injectingSpeed = 20f;
 
     [SerializeField] float movementSpeed = 10f;
 
@@ -47,14 +49,16 @@ public class Syringe : MonoBehaviour
 
     void Inject() 
     {
-        if(Input.GetButtonDown("Fire1")) 
+        if(Input.GetButtonDown("Fire1")) //If the button is held down, inject continuously until the button is released.
             injectCoroutine = StartCoroutine(InjectContinuously());
-        if (Input.GetButtonUp("Fire1"))
+        if (Input.GetButtonUp("Fire1")) //When the button is released, stop injecting.
             StopCoroutine(injectCoroutine);
     }
 
     IEnumerator InjectContinuously() 
     {
+        liquidObject = new Liquid(liquid, injectingSpeed);
+        liquidObject.Inject();
         yield return new WaitForSeconds(injectingTime);
     }
 }
