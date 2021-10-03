@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5984780169961356621}
   - component: {fileID: 5984780169961356622}
   - component: {fileID: 3118906781665866388}
+  - component: {fileID: 613456034927305527}
   m_Layer: 0
   m_Name: Liquid
   m_TagString: Untagged
@@ -104,3 +105,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!70 &613456034927305527
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5984780169961356623}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_Size: {x: 0.13, y: 0.57}
+  m_Direction: 0
