@@ -2549,3 +2549,27 @@ Received Import Request.
 Start importing Assets/Scripts/Syringe.cs using Guid(088e2aecdfd637047b905a9dd1dceaf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e370c29ccca72609751ce76d4a216e98') in 0.868070 seconds 
   Import took 1.040334 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1451.133539 seconds.
+  path: Assets/Resources/Prefabs/Syringe.prefab
+  artifactKey: Guid(9e69b7afd312b2b4c9a8a982dc60eed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Syringe.prefab using Guid(9e69b7afd312b2b4c9a8a982dc60eed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f819e2d7d1a3f0dff9922c5dcbd76030') in 11.253542 seconds 
+  Import took 11.287235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/Resources/Prefabs/Syringe.prefab
+  artifactKey: Guid(9e69b7afd312b2b4c9a8a982dc60eed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Syringe.prefab using Guid(9e69b7afd312b2b4c9a8a982dc60eed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f819e2d7d1a3f0dff9922c5dcbd76030') in 0.068477 seconds 
+  Import took 0.081470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2777.457221 seconds.
+  path: Assets/Paths
+  artifactKey: Guid(3ccde8a1167073249b8e372292cafe89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Paths using Guid(3ccde8a1167073249b8e372292cafe89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16df2b0640b5fcfca61d14b02319adcc') in 0.163767 seconds 
+  Import took 0.264504 seconds .
+
