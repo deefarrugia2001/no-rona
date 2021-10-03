@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.19f1 (68f137dc9bbe) revision 6877495'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 8.1  (6.3.0) 64bit' Language: 'en' Physical Memory: 6058 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker17
+-projectPath
+C:/Users/Mandy/Documents/GitHub/no-rona/NoRona
+-logFile
+Logs/AssetImportWorker17.log
+-srvPort
+53646
+Successfully changed project path to: C:/Users/Mandy/Documents/GitHub/no-rona/NoRona
+C:/Users/Mandy/Documents/GitHub/no-rona/NoRona
+Using Asset Import Pipeline V2.
