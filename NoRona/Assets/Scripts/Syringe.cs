@@ -5,7 +5,6 @@ using UnityEngine;
 public class Syringe : MonoBehaviour
 {
     [SerializeField] GameObject liquid; //Liquid represents the projectile to emerge from the syringe in order to destroy the germs.
-    Liquid liquidObject;
     float injectingSpeed = 20f;
 
     [SerializeField] float movementSpeed = 10f;
@@ -20,6 +19,7 @@ public class Syringe : MonoBehaviour
     {
         liquid = Resources.Load<GameObject>("Prefabs/Liquid"); //Instead of loading the prefab via the Inspector, it will be loaded amidst runtime from Resources/Prefabs whereby Liquid.prefab will be fetched.
         CheckBoundaries();
+        
     }
 
     void Update()
@@ -57,8 +57,8 @@ public class Syringe : MonoBehaviour
 
     IEnumerator InjectContinuously() 
     {
-        liquidObject = new Liquid(liquid, injectingSpeed);
-        liquidObject.Inject();
+        GameObject liquidClone = Instantiate(liquid, gameObject.transform.position, Quaternion.identity);
+        liquidClone.GetComponent<Rigidbody2D>().velocity = new Vector2(0, injectingSpeed);
         yield return new WaitForSeconds(injectingTime);
     }
 }
