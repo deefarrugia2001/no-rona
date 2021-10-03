@@ -57,8 +57,11 @@ public class Syringe : MonoBehaviour
 
     IEnumerator InjectContinuously() 
     {
-        GameObject liquidClone = Instantiate(liquid, gameObject.transform.position, Quaternion.identity);
-        liquidClone.GetComponent<Rigidbody2D>().velocity = new Vector2(0, injectingSpeed);
-        yield return new WaitForSeconds(injectingTime);
+        while(true) //The while loop will cater for continuous shooting until the Fire1 button is released.
+        {
+            GameObject liquidClone = Instantiate(liquid, gameObject.transform.position, Quaternion.identity);
+            liquidClone.GetComponent<Rigidbody2D>().velocity = new Vector2(0, injectingSpeed);
+            yield return new WaitForSeconds(injectingTime);
+        }
     }
 }
