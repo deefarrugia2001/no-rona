@@ -1,14 +1,5 @@
 using UnityEngine;
 
-public class GermConfig : MonoBehaviour
+public class GermConfig : ScriptableObject
 {
-    void Start()
-    {
-        
-    }
-
-    void Update()
-    {
-        
-    }
 }
